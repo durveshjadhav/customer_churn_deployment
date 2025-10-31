@@ -1,8 +1,0 @@
-mysql-connector-python
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-flask
-pickle
